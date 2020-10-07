@@ -14,8 +14,8 @@ Django REST Framework API for the Admin and Author for CMS
 ## Endpoints
 
 - localhost:8000/api/v1
-- localhost:8000/api/v1/<id>/
-- http://localhost:8000/api-auth/login/
-- http://localhost:8000/api/v1/rest-auth/login/
-- http://localhost:8000/api/v1/rest-auth/registration/
+- localhost:8000/api/v1/id
+- localhost:8000/api-auth/login/
+- localhost:8000/api/v1/rest-auth/login/
+- localhost:8000/api/v1/rest-auth/registration/
   
